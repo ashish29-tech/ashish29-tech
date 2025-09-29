@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Ashish Ranjan</h1>
 <h3 align="center">🚀 Full Stack Developer | MERN Enthusiast | Lifelong Learner</h3>
 
-<img align="right" alt="Coding" width="350" src="https://www.bing.com/th/id/OGC.c7ac7aa3f0f08ca8f5027c6638a66db7?o=7&pid=1.7&rm=3&rurl=https%3a%2f%2fraw.githubusercontent.com%2fdevSouvik%2fdevSouvik%2fmaster%2fgif3.gif&ehk=Tsb3ZlrWPafSIHxeLZqMFIuiHTD2z2W8dX5E5DgmbWI%3d" />
+<img align="right" alt="Coding" width="330" height="400" src="https://www.bing.com/th/id/OGC.c7ac7aa3f0f08ca8f5027c6638a66db7?o=7&pid=1.7&rm=3&rurl=https%3a%2f%2fraw.githubusercontent.com%2fdevSouvik%2fdevSouvik%2fmaster%2fgif3.gif&ehk=Tsb3ZlrWPafSIHxeLZqMFIuiHTD2z2W8dX5E5DgmbWI%3d" />
 
 ---
 
@@ -68,6 +68,7 @@
 
 
 ---
+
 
 
 
