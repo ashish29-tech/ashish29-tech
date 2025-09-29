@@ -10,7 +10,7 @@
 - 🌱 Always curious about **system design & cloud technologies**  
 - 🧩 I enjoy solving coding problems & real-world challenges  
 - 🎯 Goal: Build impactful applications that make life easier  
-- 📧 Reach me at: **ashish.ranjan@example.com**  
+- 📧 Reach me at: **ashishranjan503@gmail.com**  
 
 ---
 
@@ -66,4 +66,5 @@
 
 
 ---
+
 
