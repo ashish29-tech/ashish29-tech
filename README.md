@@ -31,7 +31,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashishranjan&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ashishranjan&show_icons=true&theme=radical" alt="GitHub Stats" width="46%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishranjan&theme=radical" alt="GitHub Streak" width="48%"/>
 </p>
 
@@ -56,6 +56,14 @@
 - 🚀 Built **3+ full-stack projects** using MERN  
 - 🧩 Solved **100+ DSA problems** across different platforms  
 - 📚 Strong foundation in **REST APIs & database design**  
-- 🔥 Learning **MERN Full Stack Development** step by step  
+- 🔥 Learning **MERN Full Stack Development** step by step
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashish29-tech/ashish29-tech/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashish29-tech/ashish29-tech/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture> 
+
 
 ---
+
